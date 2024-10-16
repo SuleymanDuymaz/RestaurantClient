@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "email": "sduymaz8@gmail.com",
+      "name": "Süleyman Duymaz",
+      "password": "12",
+      "passwordAgain": "12",
+      "id": 1
+    },
+    {
+      "email": "bond@gmail.com",
+      "password": "bond",
+      "name": "Bond",
+      "id": 2
+    }
+  ]
+}
